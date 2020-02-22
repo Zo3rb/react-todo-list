@@ -1,0 +1,8 @@
+.task {
+  font-family: "Roboto" !important;
+}
+
+.deleteItem,
+.editItem {
+  cursor: pointer;
+}
